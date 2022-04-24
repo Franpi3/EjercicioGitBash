@@ -1,2 +1,4 @@
 documento rama1
 linea 2 del documento
+añadiendo mas y mas lineas
+para ver los cambios en rama1
